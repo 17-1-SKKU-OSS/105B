@@ -6,11 +6,11 @@ layout: default
 
 # [](#header-1) Our team members
 
- 구본우 - Doing for java
+ 구본우 - Static Page 관리, Java를 이용한 Zeppelin 사용
 
- 김진우 - Python and Linux specialist
+ 김진우 - Zeppelin 설치 및 Issue 관리, Python을 이용한 Zeppelin 사용
 
- 이승원 - Wiki journalist and also do Python
+ 이승원 - Wiki 관리, Python을 이용한 Zeppelin 사용
 ## [](#header-2) We are studing for zeppelin
 
  Zeppelin is very special program that analyzing data with GUI.
