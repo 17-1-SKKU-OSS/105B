@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Our Wiki](another-page).
+[Our Wiki](https://github.com/17-1-SKKU-OSS/zeppelin/wiki/Zeppelin).
 
 # [](#header-1) Our team members
 
@@ -80,7 +80,8 @@ layout: default
 
 <<1>>
 
-1. homebrew를 이용해 scala 설치 $ brew install scala
+1. homebrew를 이용해 scala 설치 
+	$ brew install scala
 
 2. 환경변수 저장
 
@@ -88,11 +89,13 @@ layout: default
 
 	$ export PATH=$PATH:$SCALA_HOME/bin
 
-3. homebrew를 이용한 spark 설치 $ brew install apache-spark
+3. homebrew를 이용한 spark 설치 
+	$ brew install apache-spark
 
 4. 설치 확인 spark-shell (경로 오류로 실패, 하지만 설치되었을 거라 믿고 다음 진행)
 
-5. homebrew를 이용해 zeppelin 설치 $ brew install apache-zeppelin
+5. homebrew를 이용해 zeppelin 설치 
+	$ brew install apache-zeppelin
 
 6. 제플린 실행 
 
@@ -102,7 +105,7 @@ layout: default
 
 	Pid dir doesn't exist, create /usr/local/Cellar/apache-zeppelin/0.7.1/libexec/run
 
-Zeppelin start                                             [  OK  ]
+	Zeppelin start                                             [  OK  ]
 
 	무언가 오류가 발생하긴 했지만 (경로 오류인 듯) 어쨌든 OK!
 
